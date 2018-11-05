@@ -28,7 +28,7 @@ fi
 echo exit 1
 ```
 
-6..travis.yml created
+6. .travis.yml created
 ```
 language: generic
 dist: xenial
