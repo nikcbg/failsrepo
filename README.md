@@ -1,6 +1,8 @@
-# sucksrepo
+# failsrepo
 
 Repo with script that always returns fails.
+#Repo with script that always returns fails.
+
 
 1.Create repo.
 
