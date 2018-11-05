@@ -1,17 +1,21 @@
-# failsrepo
+## failsrepo
 
 Repo with script that always returns fails.
 
-1.Create new repo.
 
-2.Vagrantfile for VM.
+1.Vagrantfile for VM.
 
-3.fail.sh script taht dispalys exit 1.
+2.fail.sh script taht dispalys exit 1.
 
-4.test.sh script that test fail.sh.
+3.test.sh script that test fail.sh.
 
-5..travis.yml - script for continuous integration.
+4..travis.yml - script for continuous integration.
 
-6.Add repo to travis.
+5. DETAILED.md - file with how tasks have been done.
 
-7.Test repo in travis to check if it pass or fails.
+
+##To DO:
+
+1.Add repo to travis.
+
+2.Test repo in travis to check if it pass or fails.
