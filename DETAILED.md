@@ -62,3 +62,4 @@ end
 7b.Push changes to Github, create PR and Merge changes. 
 
 8. Test repo in tarvis to check if it passes or fails. 
+
