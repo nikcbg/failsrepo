@@ -22,10 +22,10 @@ else
 fi
 ```
 
-5.true.sh created
+5.fail.sh created
 
 ```
-echo true
+echo fail
 ```
 
 6..travis.yml created
