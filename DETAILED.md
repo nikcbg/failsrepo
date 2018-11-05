@@ -36,4 +36,13 @@ sudo: required
 script:
 - bash test.sh
 ```
+7.Vagrant file created
+
+```
+Vagrant.configure("2") do |config|
+  config.vm.provision "shell",
+    inline: "echo Hello, World"
+end
+```
+
 
