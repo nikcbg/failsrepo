@@ -4,7 +4,7 @@ Repo with script that always returns fails.
 
 1.Create repo.
 
-2.Cretae VAgrantfile for VM
+2.Cretae Vagrantfile for VM
 
 3.Create true.sh script.
 
