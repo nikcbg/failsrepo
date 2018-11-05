@@ -11,11 +11,9 @@ Repo with script that always returns fails.
 
 4..travis.yml - script for continuous integration.
 
-5. DETAILED.md - file with how tasks have been done.
+5.DETAILED.md - file with how tasks have been done.
 
 
 ## To DO:
 
-1.Add repo to travis.
 
-2.Test repo in travis to check if it pass or fails.
