@@ -10,8 +10,8 @@ Repo with script that always returns fails.
 
 4.Create test.sh script that test true.sh.
 
-5. Create .travis.yml file with test that always pass
+5.Create .travis.yml file with test that always pass
 
-6. Update .travis.yml with 
+6.Update .travis.yml with 
 
 7.Add repo to travis.
