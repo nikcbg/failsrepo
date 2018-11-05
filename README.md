@@ -14,7 +14,7 @@ Repo with script that always returns fails.
 5. DETAILED.md - file with how tasks have been done.
 
 
-##To DO:
+## To DO:
 
 1.Add repo to travis.
 
