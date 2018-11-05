@@ -28,7 +28,7 @@ fi
 echo exit 1
 ```
 
-6. .travis.yml
+6. .travis.yml - script for continuous integration.
 ```
 language: generic
 dist: xenial
