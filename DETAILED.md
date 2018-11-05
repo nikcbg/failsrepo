@@ -2,11 +2,11 @@
 
 1.New repo created
 
-2.README.md updated
+2.README.md updated with what is the purpose of the repository. 
 
-3.DETAILED.md created 
+3.DETAILED.md created with tasks have been done.
 
-4.test.sh created
+4.test.sh created - script that test if fail.sh script pass or fails.
 
 ```
 #!/usr/bin/env bash
@@ -22,13 +22,13 @@ else
 fi
 ```
 
-5.fail.sh created
+5.fail.sh created - script that displays exit 1
 
 ```
 echo exit 1
 ```
 
-6. .travis.yml created
+6. .travis.yml
 ```
 language: generic
 dist: xenial
