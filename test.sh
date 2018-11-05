@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-out=$(bash ./true.sh)
+out=$(bash ./fail.sh)
 
 # we should check out == hello
 if [ "${out}" == "hello" ];then
