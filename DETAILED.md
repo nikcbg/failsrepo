@@ -1,4 +1,4 @@
-#Detailed description of the steps what is already done.
+#Detailed description of the steps how tasks are done.
 
 1.New repo created with README.md and MIT license.
 
