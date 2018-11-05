@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo exit 1
+echo exit1
