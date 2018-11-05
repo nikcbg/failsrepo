@@ -6,7 +6,7 @@ Repo with script that always returns fails.
 
 2.Cretae Vagrantfile for VM
 
-3.Create true.sh script.
+3.Create fail.sh script.
 
 4.Create test.sh script that test true.sh.
 
