@@ -10,7 +10,7 @@ Repo with script that always returns fails.
 
 4.Create test.sh script that test fail.sh.
 
-5.Create .travis.yml.
+5.Create .travis.yml - script for continuous integration.
 
 6.Add repo to travis.
 
