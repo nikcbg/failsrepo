@@ -1,6 +1,6 @@
 #Detailed description of the steps how tasks are done.
 
-1. New repo created with README.md and MIT license.
+1. Create new repo  with README.md, MIT license and make it public.
 
 2. README.md updated with what is the purpose of the repository. 
 
