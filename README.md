@@ -1,19 +1,11 @@
 ## failsrepo
 
-Repo with script that always returns fails.
+Repo with script that always fails.
 
-
-1.Vagrantfile for VM.
-
-2.fail.sh script taht dispalys exit 1.
-
-3.test.sh script that test fail.sh.
-
-4..travis.yml - script for continuous integration.
-
-5.DETAILED.md - file with how tasks have been done.
-
+- `Vagrantfile` for VM.
+- `fail.sh` script taht dispalys `exit 1`.
+- `test.sh` script that test `fail.sh`.
+- `.travis.yml` script for continuous integration.
+- `DETAILED.md` file with how tasks have been done.
 
 ## To DO:
-
-
